@@ -1,12 +1,12 @@
-# 🛒 Groclake Colabs
+# Groclake Colabs
 
 Welcome to the **Groclake Colabs Repository**, a collection of interactive notebooks demonstrating the features and components of the Groclake framework — a modular, extensible solution for building intelligent agents, managing data workflows, and integrating with services like MySQL, Elasticsearch, and more.
 
 ---
 
-## 📁 Colabs Overview
+## Colabs Overview
 
-### 1. 🔹 **GrocAgent - Simple Chat Agent**
+### 1. **GrocAgent - Simple Chat Agent**
 
 **What is GrocAgent?**
 
@@ -25,7 +25,7 @@ Builds a simple chat agent using GrocAgent to demonstrate handling dynamic user 
 
 ---
 
-### 2. 🔹 **DatalakeConnection - Data Pipeline Framework**
+### 2. **DatalakeConnection - Data Pipeline Framework**
 
 **What is Datalake?**
 
@@ -35,11 +35,11 @@ The `DatalakeConnection` class extends the core `Datalake` framework to manage:
 - Secure configuration using environment variables
 
 **Key Features:**
-- 🔄 Inherit and extend Datalake methods
-- 🔌 Configure multiple data sources
-- 🔧 Create modular pipelines
-- 🧵 Execute connections concurrently using threading
-- 🗂️ Store and reuse connections dynamically
+- Inherit and extend Datalake methods
+- Configure multiple data sources
+- Create modular pipelines
+- Execute connections concurrently using threading
+- Store and reuse connections dynamically
 
 **Notebook Walkthrough:**
 - Shows how to inherit from `Datalake`
@@ -48,7 +48,7 @@ The `DatalakeConnection` class extends the core `Datalake` framework to manage:
 
 ---
 
-### 3. 🔹 **Master File - Central Function Library**
+### 3. **Master File - Central Function Library**
 
 The **Master notebook** acts as a centralized utility hub by importing and utilizing all the core components of the `groclake` library:
 - `modellake`
@@ -63,16 +63,16 @@ The **Master notebook** acts as a centralized utility hub by importing and utili
 
 ---
 
-### 4. 🔹 **OrderAgent - Order Status Assistant**
+### 4. **OrderAgent - Order Status Assistant**
 
 **What is OrderAgent?**
 
 `OrderAgent` is a real-time conversational agent built using `GrocAgent`, designed to track customer orders.
 
 **Features:**
-- 📦 Live order tracking
-- ⏱️ Estimated delivery updates
-- 🌐 Multi-language support
+-  Live order tracking
+-  Estimated delivery updates
+-  Multi-language support
 
 **Example:**
 - A user starts with “¿Dónde está mi pedido?” and switches to “Can I expedite the delivery?”  
@@ -83,7 +83,7 @@ Shows implementation of multilingual support and real-time status updates using 
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python
 - Flask (backend framework)
@@ -97,7 +97,7 @@ Shows implementation of multilingual support and real-time status updates using 
 
 ---
 
-## 📚 Getting Started
+## Getting Started
 
 1. Clone this repository or open each notebook in Google Colab.
 2. Set up environment variables (`.env`) or use Google Colab secrets.
@@ -105,16 +105,16 @@ Shows implementation of multilingual support and real-time status updates using 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork the repository and create pull requests with enhancements, bug fixes, or additional Colabs.
 
 ---
 
 
-## ✉️ Contact
+## Contact
 
 For any questions or collaborations:  
-📧 **datirsayali12@gmail.com**  
-🔗 GitHub: [https://github.com/Datirsayali12](https://github.com/Datirsayali12)
+**datirsayali12@gmail.com**  
+GitHub: [https://github.com/Datirsayali12](https://github.com/Datirsayali12)
 
